@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="cpp_check_true" ToolsVersion="16.0">
+  <Include Path="cppcorecheckarithmeticrules.ruleset" Action="Default" />
+</RuleSet>

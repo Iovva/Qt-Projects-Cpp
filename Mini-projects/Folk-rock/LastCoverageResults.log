@@ -1,0 +1,21 @@
+[2021-06-08 22:25:39] [info] Start Program:
+Path:"C:\\Users\\Radu\\source\\repos_oop\\simulare_3\\x64\\Debug\\simulare_3.exe"
+Arguments:
+Working directory: "C:\\Users\\Radu\\source\\repos_oop\\simulare_3\\"
+Modules: Selected: C:\Users\Radu\source\repos_oop\simulare_3\x64\Debug\simulare_3.exe Excluded: 
+Sources: Selected: C:\Users\Radu\source\repos_oop\simulare_3 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Radu\AppData\Local\Temp\dpvokecg.wzz 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-06-08 22:25:39] [info] Module: C:\Users\Radu\source\repos_oop\simulare_3\x64\Debug\simulare_3.exe is selected because it matches selected pattern: C:\Users\Radu\source\repos_oop\simulare_3\x64\Debug\simulare_3.exe
+[2021-06-08 22:25:40] [info] ----------------------------------------------------
+[2021-06-08 22:25:40] [info] Coverage binary generated in file: C:\Users\Radu\AppData\Local\Temp\dpvokecg.wzz
+[2021-06-08 22:25:40] [info] ----------------------------------------------------
